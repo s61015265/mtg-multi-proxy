@@ -14,7 +14,7 @@
 ## 🛠️ 使用方法
 
 ```bash
-bash -c "$(wget -qO- https://raw.githubusercontent.com/yourusername/mtg-multi-proxy/main/multi_mtg_full.sh)"
+bash -c "$(wget -qO- https://raw.githubusercontent.com/s61015265/mtg-multi-proxy/main/multi_mtg_full.sh)"
 ```
 
 > 替换 `yourusername` 为你的 GitHub 用户名
